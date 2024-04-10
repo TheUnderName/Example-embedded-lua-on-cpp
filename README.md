@@ -1,1 +1,1 @@
-Example embeded lua on cpp
+Example embedded lua on cpp
